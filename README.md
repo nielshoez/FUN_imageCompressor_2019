@@ -6,7 +6,7 @@ Code an image Compressor in Haskell using Kmeans Algorithm
 ``` make```
 This will compile an executable called ```imageCompressor```.
 
-# Arguments
+### Arguments
 ./imageCompressor n e IN
   
   . n   number of colors in the final image
@@ -16,7 +16,7 @@ This will compile an executable called ```imageCompressor```.
 Example :
 ```./imageCompressor 3 0.8 liste ``` will compress the image contained in the IN file with 3 final colors and a convergence limit of 0.8.
 
-![alt text](https://i.imgur.com/4T3mEJe.png)
+![alt text](https://i.imgur.com/WKZIl5B.png)
 
 ## Authors
 
